@@ -1,5 +1,8 @@
 <div align="center">
-        <img src="https://secondstomidnight.neocities.org/weas/sleepyken.png" style="width:70%;height:auto;"><br> Chat, I love Gamzee and Kanaya so much...<br><br><img src="https://img.shields.io/badge/Tumblr-%2336465D?style=plastic&logo=Tumblr&logoColor=%23FFFF&link=https%3A%2F%2Fnukear.tumblr.com%2F"> <img src="https://img.shields.io/badge/%E6%96%B0%20Atabook-%23108EC0?style=plastic&logoColor=fff&link=https%3A%2F%2Funderdog.atabook.org%2F"> <img src="https://img.shields.io/badge/Bluesky-%231185FE?style=plastic&logo=Bluesky&logoColor=%23FFFF&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fclownpires.bsky.social">
+        <img src="https://secondstomidnight.neocities.org/weas/sleepyken.png" style="width:70%;height:auto;"><br> Chat, I love Gamzee and Kanaya so much...<br><br>
+       <a href="https://nukear.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-%2336465D?style=plastic&logo=Tumblr&logoColor=%23FFFF&link=https%3A%2F%2Fnukear.tumblr.com%2F"></a>
+        <a href="https://underdog.atabook.org/"><img src="https://img.shields.io/badge/%E6%96%B0%20Atabook-%23108EC0?style=plastic&logoColor=fff&link=https%3A%2F%2Funderdog.atabook.org%2F"></a>
+        <a href="https://bsky.app/profile/clownpires.bsky.social"><img src="https://img.shields.io/badge/Bluesky-%231185FE?style=plastic&logo=Bluesky&logoColor=%23FFFF&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fclownpires.bsky.social"></a>
         <br><img src="https://lastfm-recently-played.vercel.app/api?user=UNFXZANT&count=1&header_style=none&maxage=60&bg_color=111">
         <hr>
         Hello! Inside Pony.Town my name is Kenhorō, I go by he/him and I am an adult (+20) in case you wondered that...

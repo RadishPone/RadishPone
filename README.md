@@ -1,8 +1,6 @@
 <div align="center">
-        <img src="https://secondstomidnight.neocities.org/weas/sleepyken.png" style="width:70%;height:auto;"><br> Chat, I love Gamzee and Kanaya so much...<br><br>
-       <a href="https://nukear.tumblr.com/"><img src="https://img.shields.io/badge/Tumblr-%2336465D?style=plastic&logo=Tumblr&logoColor=%23FFFF&link=https%3A%2F%2Fnukear.tumblr.com%2F"></a>
-        <a href="https://underdog.atabook.org/"><img src="https://img.shields.io/badge/%E6%96%B0%20Atabook-%23108EC0?style=plastic&logoColor=fff&link=https%3A%2F%2Funderdog.atabook.org%2F"></a>
-        <a href="https://bsky.app/profile/clownpires.bsky.social"><img src="https://img.shields.io/badge/Bluesky-%231185FE?style=plastic&logo=Bluesky&logoColor=%23FFFF&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fclownpires.bsky.social">
+        <img src="https://secondstomidnight.neocities.org/weas/sleepyken.png" style="width:70%;height:auto;"><br> Chat, I love Gamzee and Kanaya so much...<br><br> <a href="https://bsky.app/profile/clownpires.bsky.social"><img src="https://img.shields.io/badge/Bluesky%20(personal)-%231185FE?style=plastic&logo=Bluesky&logoColor=%23FFFF&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fclownpires.bsky.social"></a>
+        <a href="https://bsky.app/profile/nukear.bsky.social"><img src="https://img.shields.io/badge/Bluesky%20(MLP%20art)-%231185FE?style=plastic&logo=Bluesky&logoColor=%23FFFF&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fnukear.bsky.social"></a>
          <a href="https://equestria.social/@Kenhoro/"><img src="https://img.shields.io/badge/Equestria%20Social-%23FFFF?style=plastic&logo=Mastodon&logoColor=%6364FF&link=https%3A%2F%2F%20https://equestria.social/@Kenhoro/F"></a>
         </a>
         <br><a href="https://hits.sh/github.com/Nukear/"><img alt="Hits" src="https://hits.sh/github.com/Nukear.svg?style=plastic&label=Evil%20counter%20of%20DOOM&color=b0b8c2&labelColor=7d7d8a"/></a><br><img src="https://lastfm-recently-played.vercel.app/api?user=UNFXZANT&count=1&header_style=none&maxage=60&bg_color=111">
